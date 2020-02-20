@@ -8,7 +8,6 @@ import datetime
 from prettytable import PrettyTable
 import os
 
-# This is a comment
 
 try:
     configfilename = "./gencon-hotels-lite.cfg"
